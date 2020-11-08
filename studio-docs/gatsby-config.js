@@ -12,7 +12,7 @@ module.exports = {
         subtitle: 'Studio',
         description: 'How to use Apollo Studio',
         githubRepo: 'apollographql/apollo',
-        spectrumPath: '/apollo-platform',
+        spectrumPath: '/',
         sidebarCategories: {
           null: [
             'index',

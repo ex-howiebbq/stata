@@ -1,7 +1,7 @@
 {
   "pathRules": [
     {
-      "paths": ["docs/package.json"],
+      "paths": ["studio-docs/package.json"],
       "extends": ["apollo-docs"]
     }
   ]
